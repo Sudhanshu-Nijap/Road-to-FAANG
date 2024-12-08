@@ -1,3 +1,0 @@
-public static returnType functionName(type arg1,type arg2,...){
-    //function body;
-}
