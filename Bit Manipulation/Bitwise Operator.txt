@@ -1,0 +1,27 @@
+Bitwise Operator
+
+& (Bitwise AND) - Performs a binary AND operation on each bit of the operands.
+Eg. 5 & 3 = 1  
+    101 
+  & 011
+   ------
+    001
+
+| (Bitwise OR) - Performs a binary OR operation on each bit of the operands.
+Eg. 5 | 3 = 7
+    101
+  | 011
+  ------
+    111
+
+~ (Bitwise NOT) - Performs a binary NOT operation on each bit of the operand.
+Eg. ~5 = 101 = 010 = 2
+
+<< (Left Shift) - Shifts the bits of the left operand to the left by the number of
+positions specified by the right operand.
+Eg. 5 << 1 = 0101 = 1010
+            0110   = 1100
+
+>> (Right Shift) - Shifts the bits of the left operand to the right by the number of
+positions specified by the right operand.
+Eg. 5 >> 1 = 0101 = 0010

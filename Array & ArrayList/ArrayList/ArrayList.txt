@@ -1,0 +1,4 @@
+ArrayList<dataType> varName = new ArrayList<>(capacity);
+
+ArrayList<Integer> list = new ArrayList<> (10);
+ArrayList<String> strlist = new ArrayList<> (20);
