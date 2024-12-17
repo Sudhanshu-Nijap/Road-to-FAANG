@@ -1,0 +1,6 @@
+1D array
+int arr[] = new arr[3];
+int arr[] = {1,2,3,4}
+
+2D array
+int arr[][] = new arr[3][3];
