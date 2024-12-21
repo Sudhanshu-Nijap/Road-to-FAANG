@@ -1,0 +1,8 @@
+public static returnType functionName(type arg1,type arg2,...){
+    //function body;
+}
+
+multiple args
+public static returnType functionName(type ...var){
+    System.out.println(var);
+}

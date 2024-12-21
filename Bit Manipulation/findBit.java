@@ -11,11 +11,14 @@ public class findBit {
         // int bitmask = bit>>pos;    // right shift the bit (1011) by position
         System.out.println("Bit at postion "+pos+" is "+(bit & bitmask));   // do bit & bitmask
         // System.out.println("Bit at postion "+pos+" is "+(1 & bitmask));        // do 1 & bit
+<<<<<<< HEAD:Bit Manipulation/findBit.java
 
         // int bitmask = 1<<pos;   // left shift the 1 (0001) by position
         // int bitmask = bit>>pos;    // right shift the bit (1011) by position
         // System.out.println("Bit at postion "+pos+" is "+(bit & bitmask));   // do bit & bitmask
         System.out.println("Bit at postion "+pos+" is "+(1 & bitmask));        // do 1 & bit
+=======
+>>>>>>> 41b394c (searching):Road to FAANG/Bit Manipulation/findBit.java
         sc.close();
     }
     
