@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class reverseBit {
@@ -23,4 +24,8 @@ public class reverseBit {
         }
         sc.close();
     }
+=======
+public class reverseBit {
+    
+>>>>>>> 07fd2bc (Initial commit)
 }
